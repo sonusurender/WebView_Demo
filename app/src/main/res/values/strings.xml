@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WebView Demo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="text">Enter URL to Open then Click Button</string>
+    <string name="open_url">OPEN URL</string>
+    <string name="enter_url">Enter a Valid Url</string>
+
+</resources>
